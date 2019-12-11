@@ -1,13 +1,13 @@
-package com.norris.dog;
+package com.norris.pet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DogApplication {
+public class PetApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DogApplication.class, args);
+		SpringApplication.run(PetApplication.class, args);
 	}
 
 }

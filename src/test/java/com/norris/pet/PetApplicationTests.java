@@ -1,10 +1,10 @@
-package com.norris.dog;
+package com.norris.pet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DogApplicationTests {
+class PetApplicationTests {
 
 	@Test
 	void contextLoads() {
